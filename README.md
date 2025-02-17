@@ -1,5 +1,5 @@
 # MacSpoof
-Uses macchanger to change mac address to static or random address for pwngotchi
+Uses macchanger to spoof mac address to static or random address for pwngotchi
 
   Install Plugin
 
