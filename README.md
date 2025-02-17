@@ -5,7 +5,7 @@ Uses macchanger to change mac address to static or random address for pwngotchi
 
 1. FTP into your pwnagotchi and Drag desired plugin into /usr/local/share/pwnagotchi/custom-plugins/
 
-  To FTP into your Pwnagotchi as a root user, you'll first need to initialize the root user account and also enable root FTP logins:
+To FTP into your Pwnagotchi as a root user, you'll first need to initialize the root user account and also enable root FTP logins:
 
 1. SSH into your Pwny as the pi user (as usual)
 2. sudo passwd root
