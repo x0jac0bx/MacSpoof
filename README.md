@@ -22,3 +22,8 @@ To FTP into your Pwnagotchi as a root user, you'll first need to initialize the 
   Install macchanger
 1. sudo apt install macchanger
 
+  Make sure its working
+1. SSH into your Pwny as the pi user (as usual)
+1. ip a
+2. should see the spoofed address under the info for wlan0
+
